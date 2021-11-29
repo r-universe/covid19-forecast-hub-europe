@@ -1,8 +1,26 @@
 [
   {
+    "package": "covidHubUtils",
+    "url": "https://github.com/reichlab/covidHubUtils",
+    "via": ["ForecastHubSubmissionApp"],
+    "from": "ForecastHubSubmissionApp"
+  },
+  {
     "package": "rlang",
     "url": "https://github.com/r-lib/rlang",
     "via": ["ForecastHubValidations"],
     "from": "ForecastHubValidations"
+  },
+  {
+    "package": "scoringutils",
+    "url": "https://github.com/epiforecasts/scoringutils",
+    "via": ["ForecastHubSubmissionApp"],
+    "from": "ForecastHubSubmissionApp"
+  },
+  {
+    "package": "zoltr",
+    "url": "https://github.com/reichlab/zoltr",
+    "via": ["ForecastHubSubmissionApp", "covidHubUtils"],
+    "from": "ForecastHubSubmissionApp"
   }
 ]
