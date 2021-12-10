@@ -13,3 +13,8 @@
 	url = https://github.com/covid19-forecast-hub-europe/ForecastHubSubmissionApp
 	shallow = true
 	registered = true
+[submodule "rlang"]
+	path = rlang
+	url = https://github.com/r-lib/rlang
+	shallow = true
+	registered = false
