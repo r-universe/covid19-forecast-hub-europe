@@ -1,5 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/covid19-forecast-hub-europe/universe
 	shallow = true
 	branch = HEAD
+[submodule "ForecastHubValidations"]
+	path = ForecastHubValidations
+	url = https://github.com/covid19-forecast-hub-europe/ForecastHubValidations
+	shallow = true
+	registered = true
+[submodule "ForecastHubSubmissionApp"]
+	path = ForecastHubSubmissionApp
+	url = https://github.com/covid19-forecast-hub-europe/ForecastHubSubmissionApp
+	shallow = true
+	registered = true
