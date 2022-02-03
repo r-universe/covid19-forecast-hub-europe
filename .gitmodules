@@ -27,6 +27,7 @@
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils
 	shallow = true
+	branch = issue-174
 	registered = false
 [submodule "zoltr"]
 	path = zoltr
