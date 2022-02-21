@@ -15,7 +15,7 @@
     "package": "scoringutils",
     "url": "https://github.com/epiforecasts/scoringutils",
     "via": ["ForecastHubSubmissionApp"],
-    "branch": "issue-174",
+    "branch": "major-update",
     "from": "ForecastHubSubmissionApp"
   },
   {
