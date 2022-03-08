@@ -13,24 +13,8 @@
 	url = https://github.com/covid19-forecast-hub-europe/HubSubmissionApp
 	shallow = true
 	registered = true
-[submodule "covidHubUtils"]
-	path = covidHubUtils
-	url = https://github.com/reichlab/covidHubUtils
-	shallow = true
-	registered = false
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
-	shallow = true
-	registered = false
-[submodule "scoringutils"]
-	path = scoringutils
-	url = https://github.com/epiforecasts/scoringutils
-	shallow = true
-	branch = major-update
-	registered = false
-[submodule "zoltr"]
-	path = zoltr
-	url = https://github.com/reichlab/zoltr
 	shallow = true
 	registered = false
