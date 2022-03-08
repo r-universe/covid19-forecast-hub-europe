@@ -3,14 +3,14 @@
 	url = https://github.com/covid19-forecast-hub-europe/universe
 	shallow = true
 	branch = HEAD
-[submodule "ForecastHubValidations"]
-	path = ForecastHubValidations
-	url = https://github.com/covid19-forecast-hub-europe/ForecastHubValidations
+[submodule "HubValidations"]
+	path = HubValidations
+	url = https://github.com/covid19-forecast-hub-europe/HubValidations
 	shallow = true
 	registered = true
-[submodule "ForecastHubSubmissionApp"]
-	path = ForecastHubSubmissionApp
-	url = https://github.com/covid19-forecast-hub-europe/ForecastHubSubmissionApp
+[submodule "HubSubmissionApp"]
+	path = HubSubmissionApp
+	url = https://github.com/covid19-forecast-hub-europe/HubSubmissionApp
 	shallow = true
 	registered = true
 [submodule "covidHubUtils"]
